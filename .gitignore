@@ -1,0 +1,9 @@
+# 프로젝트 제외 경로
+/.gradle/
+/buildSrc/.gradle/
+/buildSrc/build/
+/util/build/
+/Warmup/Maximum Pairwise Product/build/
+/Warmup/Maximum Pairwise Product — Fixing the Time Limit Issue/build/
+/Warmup/Maximum Pairwise Product — Fixing the Integer Overflow Issue/build/
+/Warmup/Sum of Two Digits/build/
