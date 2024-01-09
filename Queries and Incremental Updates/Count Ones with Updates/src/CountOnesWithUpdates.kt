@@ -1,12 +1,16 @@
 
 class CountOnesWithUpdates(seq: CharSequence)  {
-// create required fields and methods here
-
-    fun countOnes() : Int {
-        TODO("not implemented")
-    }
+    private val seq = CharArray(seq.length) { seq[it] }
+    private var ones = seq.count { it == '1' }
+    fun countOnes() : Int = ones
 
     fun flip(index: Int) {
-        TODO("not implemented")
+        if (seq[index] == '0') {
+            seq[index] = '1'
+            ones++
+        } else {
+            seq[index] = '0'
+            ones--
+        }
     }
 }

@@ -1,20 +1,5 @@
 type: edu
 files:
-  - name: src/Task.kt
-    visible: true
-    placeholders:
-      - offset: 49
-        length: 27
-        placeholder_text: '    TODO("not implemented")'
-        initial_state:
-          length: 27
-          offset: 49
-        initialized_from_dependency: false
-        selected: false
-        status: Unchecked
-        encrypted_possible_answer: 1hp89bazEJV5BKyR05hmBY4rQrC6rCFEXTJdPdGA3OLDibCsWSWpZpo01ZeAlVSyQQSWeiuVUCiilpHnjiqt3AeAsUQRQ6kVlHNXfD2zjbN9j0JKw1OI04Alt10CGjOFFTXUpEM1gMFdzGXPGWO/Ohq98k93Rs+45bjvmQE3m6SHLONcE/rpm7uyA9LOwOhblqTK4L0Y3RrXd0yjljLEZVFiv+s0R0u8TDFZhmQBWOxZS/EQr8NJ79shlK7U+QY7GwFYRP7FXANCDCtIr+eG4NndVniBpKNzKfTyt2KQfRabxcYRPsqI+eeGRJ0oawMtvBSCx6P055V54HT1wIMrCp64XPT1y18e7wJHCd9ko+A=
-    encrypted_text: DQwm+35PFtU+jeEEAT5wyD675nKBKkHvPluHbhqtkqo48DQIya5Gj0X0rCEp6qdwFAFGuKN8gY8GMqFAKqg9rySfNFNNU4CIe5KiEDS6bH4=
-    learner_created: false
   - name: test/Tests.kt
     visible: true
     encrypted_text: ITs8Nv8EH6QWJG5nufD7nG8aCRRNu9s0lIhzUcCHkspqtrXhkvgETqwgK3clQxWqxHPhg5TU04NONFDDQnQRlHpoHEynug+LLcHImSQvvv3InNHoakglh4jg4tzYPs1E+tHMWB92UIqlmeY8A9PSrSko5pr5C5Ka3PGOLO0Bajv2Sh2ZiuEiVfCNcX+zxZYsgLxD88s3T3jTbnWQMHhJsfKYXPahUKiwQzfpLoPQZcSQnrxWn1oblScS0rh2WEqeTAs+bsAMXOsNt7swYkmvGvxs/xBk5NNv68LzVjQ+Doa6psyoSvoJxfns7BcnJT9qN/74sGJ7gGoIKxL9w1e/rgJ0+bnyGyqu4BS1hVWh6wzjbiiYlqYyklZztTYj7giA4TqJWn6jm8Xu+hrN8Tqc3USmasq1pXwiinhNCwZ2eFNpmc6pCDSsxcBEQZ0OmvTzURE+EYyOWxnsuT4zZwVr/e9vd8PSMWgImCnEcP0K0ysZ6Jm258n9NIxZG9dH874CzPhX8dyFv0TwRVs5TDwhM4DHbkAuFe+672olLTXUaExsMr3KSB+fxOOD1dWrUHChDGvI1EOgvZjUEU8JYRrcZ93EFGfLdky0gJBuAuqAjnj3Bw9ROVdDyZdn787Z7xYo
@@ -31,6 +16,24 @@ files:
     visible: false
     encrypted_text: /sjVzhTGL3uXF2nRF6tcYctI63NezjJ3koWn9GOKAbx6cr0ecx29cech2VrkDddLA130cb9Eu7S9uRmyokvb1V3BHiaAybMCuwXRVogVUbSpzklAMT2NQxDP7LXtsy8/at2rzbsp5CMEjNTwNsOZ7RoNR1frl6AucytMehnQjmD3ih1Aa6ADgIJOiKSkFev2EaIO0NqkpiplDLwGIZlgaVVSG8nDbaTnLg45IUKXmhTUSRrmN4CEcaWD76leqZYP2sSdGSEL3ZLnhRs/bdNWANVcPzBtN+LGq4Nmx6gti3oHiSeAhbGsx1xpRMlUMqH74g/DVfhsFhSAKSeRGzy7wFRmBfe3ILi3kxXf+VqjsEg=
     learner_created: false
+  - name: src/Task.kt
+    visible: true
+    placeholders:
+      - offset: 688
+        length: 0
+        placeholder_text: '    TODO("not implemented")'
+        initial_state:
+          length: 27
+          offset: 49
+        initialized_from_dependency: false
+        selected: true
+        status: Solved
+        encrypted_possible_answer: 1hp89bazEJV5BKyR05hmBY4rQrC6rCFEXTJdPdGA3OLDibCsWSWpZpo01ZeAlVSyQQSWeiuVUCiilpHnjiqt3AeAsUQRQ6kVlHNXfD2zjbN9j0JKw1OI04Alt10CGjOFFTXUpEM1gMFdzGXPGWO/Ohq98k93Rs+45bjvmQE3m6SHLONcE/rpm7uyA9LOwOhblqTK4L0Y3RrXd0yjljLEZVFiv+s0R0u8TDFZhmQBWOxZS/EQr8NJ79shlK7U+QY7GwFYRP7FXANCDCtIr+eG4NndVniBpKNzKfTyt2KQfRabxcYRPsqI+eeGRJ0oawMtvBSCx6P055V54HT1wIMrCp64XPT1y18e7wJHCd9ko+A=
+    encrypted_text: DQwm+35PFtU+jeEEAT5wyD675nKBKkHvPluHbhqtkqo48DQIya5Gj0X0rCEp6qdwFAFGuKN8gY8GMqFAKqg9rySfNFNNU4CIe5KiEDS6bH4=
+    learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSfxqHNk7ZtD9Br3NqgSlkdbaN6HuDWjJXvP3vFSIyFROZ6nYg/viewform?usp=pp_url&entry.2103429047=Queries+and+incremental+updates+/+Count+Blocks+of+Ones
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Tue, 09 Jan 2024 08:03:09 UTC"
 record: -1

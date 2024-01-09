@@ -1,4 +1,8 @@
 
 fun countOnes(seq: CharSequence): Int {
-    TODO("not implemented")
+    var cnt = 0
+    for (c in seq) {
+        if (c == '1') cnt++
+    }
+    return cnt
 }
